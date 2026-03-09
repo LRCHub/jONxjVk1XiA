@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "君が好き",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-09T10:51:57.717195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_君が好き_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/02_君が好き_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_君が好き_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【清水翔太】 君が好き",
+      "artist": "KuИ様",
+      "has_synced": true,
+      "path": "select/04_【清水翔太】_君が好き_KuИ様.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "そのままの 君が好き",
+      "artist": "小田和正",
+      "has_synced": false,
+      "path": "select/05_そのままの_君が好き_小田和正.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_君が好き_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【清水翔太】 君が好き",
+      "artist": "Eve_?",
+      "has_synced": true,
+      "path": "select/07_【清水翔太】_君が好き_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/08_君が好き_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "れるりり/当社比P",
+      "has_synced": true,
+      "path": "select/09_君が好き_れるりり_当社比P.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "そのままの 君が好き",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/10_そのままの_君が好き_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君が好き Rearrange ver.",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/11_君が好き_Rearrange_ver._西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/12_君が好き_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君が好き - Kimi Ga Suki",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/13_君が好き_-_Kimi_Ga_Suki_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/14_君が好き_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "Shota Shimizu",
+      "has_synced": false,
+      "path": "select/15_君が好き_Shota_Shimizu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "君が好き Rearrange ver.",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/16_君が好き_Rearrange_ver._西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "君が好き",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/17_君が好き_西野カナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が好き",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_君が好き_Mr.Children.txt"
+    }
+  ]
+}
